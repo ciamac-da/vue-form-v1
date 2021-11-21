@@ -1,19 +1,9 @@
-# vue-form-v1
+Vue Form v1
 
-## Project setup
-```
-npm install
-```
+![](./public/assets/1.jpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](./public/assets/2.jpg)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](./public/assets/3.jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./public/assets/4.jpg)
